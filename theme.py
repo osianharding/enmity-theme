@@ -24,8 +24,8 @@
         "BACKGROUND_MODIFIER_ACTIVE": ["#2f3034", "#FFFFFF"], # Selected emoji emote background colour.
         "BACKGROUND_MODIFIER_SELECTED": ["#35f4ff", "#FFFFFF"], # This is the selected channel highlight colour.
         "CHANNELS_DEFAULT": ["#666666", "#FFFFFF"],
-        "HEADER_PRIMARY": ["#35ff67", "#FFFFFF"],
-        "HEADER_SECONDARY": ["#6e35ff", "#FFFFFF"],
+        "HEADER_PRIMARY": ["#35ff67", "#FFFFFF"], # A lot of text
+        "HEADER_SECONDARY": ["#6e35ff", "#FFFFFF"], # Subtext
         "INTERACTIVE_ACTIVE": ["#dcddde", "#FFFFFF"],
         "INTERACTIVE_MUTED": ["#6c757d", "#FFFFFF"],
         "INTERACTIVE_NORMAL": ["#c8c8c8", "#FFFFFF"],
