@@ -32,7 +32,8 @@
         "INTERACTIVE_HOVER": ["#666666", "#FFFFFF"],
         "TEXT_LINK": ["#01a6f8", "#FFFFFF"],
         "TEXT_MUTED": ["#838992", "#FFFFFF"],
-        "TEXT_NORMAL": ["#e4e6e9", "#FFFFFF"]
+        "TEXT_NORMAL": ["#e4e6e9", "#FFFFFF"],
+        "CARD_PRIMARY_BG": ["#000000"]
     },
     "colours": {
         "PRIMARY_DARK": "#ff4f4f",
@@ -41,10 +42,10 @@
         "PRIMARY_DARK_360": "#ff4fad",
         "PRIMARY_DARK_400": "#58ff4f",
         "PRIMARY_DARK_500": "#4fffb8",
-        "PRIMARY_DARK_600": "#4ff2ff",
-        "PRIMARY_DARK_630": "#4f7aff",
-        "PRIMARY_DARK_700": "#614fff",
-        "PRIMARY_DARK_800": "#b54fff",
+        "PRIMARY_DARK_600": "#141414",
+        "PRIMARY_DARK_630": "#141414",
+        "PRIMARY_DARK_700": "#141414",
+        "PRIMARY_DARK_800": "#141414",
         "BRAND_NEW": "#01a6f8",
         "WHITE": "#FFFFFF"
     },
