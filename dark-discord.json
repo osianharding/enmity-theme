@@ -41,7 +41,7 @@
         "CARD_PRIMARY_BG": ["#141414"],
         "BG_BACKDROP": ["#141414"],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#141414"],
-        "CHANNEL_ICON": ["#d0d0d1", "#ffffff"]
+        "CHANNEL_ICON": ["#000000", "#ffffff"]
     },
     "colours": {
         "PRIMARY_DARK": "#141414",
@@ -52,7 +52,7 @@
         "PRIMARY_DARK_500": "#141414",
         "PRIMARY_DARK_600": "#141414",
         "PRIMARY_DARK_630": "#141414",
-        "PRIMARY_DARK_700": "#ff4242",
+        "PRIMARY_DARK_700": "#1f1f1f",
         "PRIMARY_DARK_800": "#141414",
         "PRIMARY_900": "#050505",
         "BRAND_NEW": "#fff259",
