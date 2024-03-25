@@ -32,16 +32,16 @@
         "HEADER_PRIMARY": ["#e9e9ea", "#ffffff"],
         "HEADER_SECONDARY": ["#b2b2b2", "#ffffff"],
         "INTERACTIVE_ACTIVE": ["#dcddde", "#ffffff"],
-        "INTERACTIVE_MUTED": ["#838992", "#ffffff"],
+        "INTERACTIVE_MUTED": ["#4b4f55", "#ffffff"],
         "INTERACTIVE_NORMAL": ["#c8c8c8", "#ffffff"],
         "INTERACTIVE_HOVER": ["#666666", "#ffffff"],
         "TEXT_LINK": ["#01a6f8", "#ffffff"],
-        "TEXT_MUTED": ["#838992", "#ffffff"],
-        "TEXT_NORMAL": ["#e4e6e9", "#ffffff"],
+        "TEXT_MUTED": ["#4b4f55", "#ffffff"],
+        "TEXT_NORMAL": ["#d0d0d1", "#ffffff"],
         "CARD_PRIMARY_BG": ["#141414"],
         "BG_BACKDROP": ["#141414"],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#141414"],
-        "CHANNEL_ICON": ["#e4e6e9", "#ffffff"]
+        "CHANNEL_ICON": ["#d0d0d1", "#ffffff"]
     },
     "colours": {
         "PRIMARY_DARK": "#141414",
