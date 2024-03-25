@@ -38,9 +38,9 @@
         "TEXT_LINK": ["#01a6f8", "#FFFFFF"],
         "TEXT_MUTED": ["#838992", "#FFFFFF"],
         "TEXT_NORMAL": ["#e4e6e9", "#FFFFFF"],
-        "CARD_PRIMARY_BG": ["#000000"],
-        "BG_BACKDROP": ["#000000"],
-        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#000000"],
+        "CARD_PRIMARY_BG": ["#141414"],
+        "BG_BACKDROP": ["#141414"],
+        "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#141414"],
         "CHANNEL_ICON": ["#000000", "#FFFFFF"]
     },
     "colours": {
