@@ -44,10 +44,10 @@
         "CHANNEL_ICON": ["#000000", "#FFFFFF"]
     },
     "colours": {
-        "PRIMARY_DARK": "#ff4f4f",
-        "PRIMARY_DARK_100": "#ff8b4f",
-        "PRIMARY_DARK_300": "#ffe54f",
-        "PRIMARY_DARK_360": "#ff4fad",
+        "PRIMARY_DARK": "#141414",
+        "PRIMARY_DARK_100": "#f7f7f7",
+        "PRIMARY_DARK_300": "#dcddde",
+        "PRIMARY_DARK_360": "#dcddde",
         "PRIMARY_DARK_400": "#dcddde",
         "PRIMARY_DARK_500": "#141414",
         "PRIMARY_DARK_600": "#141414",
@@ -60,9 +60,9 @@
         "BRAND_260": "#00abfd",
         "BRAND_500": "#00abfd",
         "BRAND_900": "#00abfd",
-        "BRAND": "#00abfd",
-        "YELLOW_300": "#00abfd",
-        "GREEN_600": "#00abfd",
+        "BRAND": "#ff4242",
+        "YELLOW_300": "#59ffde",
+        "GREEN_600": "#59ffde",
         "DANGER": "#2c2c2c",
         "RED": "#848484"
     },
