@@ -2,7 +2,7 @@
     "name": "Dark Vendetta - Remake",
     "author": "osian.",
     "version": "1.0.0",
-    "description": "A dark theme for Discord.",
+    "description": "A remake of the Dark Vendetta theme.",
     "authors": [ 
         {
             "name": "@osian.",
@@ -15,7 +15,7 @@
         "BACKGROUND_SECONDARY": ["#111111", "#FFFFFF"],
         "BACKGROUND_SECONDARY_ALT": ["#0e0e0e", "#FFFFFF"],
         "BACKGROUND_TERTIARY": ["#0c0c0c", "#FFFFFF"],
-        "BACKGROUND_ACCENT": ["#ffff00", "#FFFFFF"],
+        "BACKGROUND_ACCENT": ["#0c0c0c", "#FFFFFF"],
         "BACKGROUND_FLOATING": ["#151415", "#FFFFFF"],
         "BACKGROUND_NESTED_FLOATING": ["#ff0000", "#FFFFFF"],
         "BACKGROUND_MOBILE_PRIMARY": ["#151415", "#FFFFFF"],
@@ -38,7 +38,7 @@
         "PRIMARY_DARK": "#6e35ff",
         "PRIMARY_DARK_100": "#dcddde",
         "PRIMARY_DARK_300": "#dcddde",
-        "PRIMARY_DARK_360": "#35ff67",
+        "PRIMARY_DARK_360": "#dcddde",
         "PRIMARY_DARK_400": "#141414",
         "PRIMARY_DARK_500": "#141414",
         "PRIMARY_DARK_600": "#141414",
