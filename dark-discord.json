@@ -44,11 +44,11 @@
         "PRIMARY_DARK_600": "#D2691E",
         "PRIMARY_DARK_630": "#8B0000",
         "PRIMARY_DARK_700": "#0d0c0d",
-        "PRIMARY_DARK_800": "#ff4242",
+        "PRIMARY_DARK_800": "#e3f25c",
         "BRAND_NEW": "#FF00FF",
         "WHITE": "#FFFFFF"
     },
     "unsafe_colors": {
-        "CHAT_GREY": "#A9A9A9"
+        "CHAT_GREY": "#eaedee"
     }
 }
