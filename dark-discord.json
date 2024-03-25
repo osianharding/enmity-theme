@@ -41,7 +41,7 @@
         "CARD_PRIMARY_BG": ["#141414"],
         "BG_BACKDROP": ["#141414"],
         "REDESIGN_BUTTON_SECONDARY_BACKGROUND": ["#141414"],
-        "CHANNEL_ICON": ["#000000", "#ffffff"]
+        "CHANNEL_ICON": ["#d0d0d1", "#ffffff"]
     },
     "colours": {
         "PRIMARY_DARK": "#141414",
