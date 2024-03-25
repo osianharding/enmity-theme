@@ -23,7 +23,7 @@
         "BACKGROUND_MODIFIER_ACCENT": ["#2f3034", "#FFFFFF"],
         "BACKGROUND_MODIFIER_ACTIVE": ["#2f3034", "#FFFFFF"],
         "BACKGROUND_MODIFIER_SELECTED": ["#2f3034", "#FFFFFF"],
-        "CHANNELS_DEFAULT": ["#6e35ff", "#FFFFFF"],
+        "CHANNELS_DEFAULT": ["#c8c8c8", "#FFFFFF"],
         "HEADER_PRIMARY": ["#e9e9ea", "#FFFFFF"],
         "HEADER_SECONDARY": ["#b2b2b2", "#FFFFFF"],
         "INTERACTIVE_ACTIVE": ["#dcddde", "#FFFFFF"],
