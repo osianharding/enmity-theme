@@ -32,7 +32,7 @@
 		"INTERACTIVE_HOVER": ["#dcddde", "#FFFFFF"],
 		"TEXT_LINK": ["#000000", "#FFFFFF"],
 		"TEXT_MUTED": ["#000000", "#FFFFFF"],
-		"TEXT_NORMAL": ["#ff4242", "#FFFFFF"]
+		"TEXT_NORMAL": ["#dcddde", "#FFFFFF"]
 	},
 	"colours": {
 		"PRIMARY_DARK": "#FFFFFF",
