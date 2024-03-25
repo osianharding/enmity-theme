@@ -18,11 +18,11 @@
         "BACKGROUND_ACCENT": ["#2f3034", "#FFFFFF"],
         "BACKGROUND_FLOATING": ["#151415", "#FFFFFF"],
         "BACKGROUND_NESTED_FLOATING": ["#808080", "#FFFFFF"],
-        "BACKGROUND_MOBILE_PRIMARY": ["#ff4242", "#FFFFFF"],
+        "BACKGROUND_MOBILE_PRIMARY": ["#ff4242", "#FFFFFF"], # This is the setting background colour.
         "BACKGROUND_MOBILE_SECONDARY": ["#f4ff43", "#FFFFFF"],
-        "BACKGROUND_MODIFIER_ACCENT": ["#2f3034", "#FFFFFF"],
-        "BACKGROUND_MODIFIER_ACTIVE": ["#2f3034", "#FFFFFF"],
-        "BACKGROUND_MODIFIER_SELECTED": ["#35f4ff", "#FFFFFF"],
+        "BACKGROUND_MODIFIER_ACCENT": ["#2f3034", "#FFFFFF"], # This is the colour of the stuff like setting icon backgrounds, etc.
+        "BACKGROUND_MODIFIER_ACTIVE": ["#2f3034", "#FFFFFF"], # Selected emoji emote background colour.
+        "BACKGROUND_MODIFIER_SELECTED": ["#35f4ff", "#FFFFFF"], # This is the selected channel highlight colour.
         "CHANNELS_DEFAULT": ["#666666", "#FFFFFF"],
         "HEADER_PRIMARY": ["#35ff67", "#FFFFFF"],
         "HEADER_SECONDARY": ["#6e35ff", "#FFFFFF"],
@@ -38,9 +38,9 @@
         "PRIMARY_DARK": "#141414",
         "PRIMARY_DARK_100": "#dcddde",
         "PRIMARY_DARK_300": "#dcddde",
-        "PRIMARY_DARK_360": "#141414",
-        "PRIMARY_DARK_400": "#141414",
-        "PRIMARY_DARK_500": "#141414",
+        "PRIMARY_DARK_360": "#ff0000",
+        "PRIMARY_DARK_400": "#ff4000",
+        "PRIMARY_DARK_500": "#ff8000",
         "PRIMARY_DARK_600": "#141414",
         "PRIMARY_DARK_630": "#141414",
         "PRIMARY_DARK_700": "#141414",
