@@ -57,7 +57,7 @@
         "BRAND_NEW": "#fff259",
         "WHITE": "#FFFFFF",
         "PRIMARY": "#000000",
-        "BRAND_260": "transparent",
+        "BRAND_260": "rgba(0, 0, 0, 0.01)",
         "BRAND_500": "#9259ff",
         "BRAND_900": "#ff8b4f",
         "BRAND": "#ff4242",
