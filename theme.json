@@ -13,7 +13,7 @@
       "#0B0B0B"
       ],
       "BACKGROUND_ACCENT": [
-      "#854bf7"
+      "#ff4242"
       ],
       "BACKGROUND_MENTIONED": [
       "#E4B40027"
@@ -97,19 +97,19 @@
       "#41434d"
       ],
       "STATUS_DANGER": [
-      "#854bf7"
+      "#fffd42"
       ],
       "STATUS_DANGER_BACKGROUND": [
-      "#854bf7"
+      "#42ff56"
       ],
       "STATUS_DANGER_TEXT": [
       "#FFFFFF"
       ],
       "TEXT_DANGER": [
-      "#854bf7"
+      "#42fff5"
       ],
       "TEXT_LINK": [
-      "#854bf7"
+      "#4269ff"
       ],
       "TEXT_MUTED": [
       "#818491"
@@ -125,7 +125,7 @@
       ]
     },
     "rawColors": {
-      "BLUE_345": "#854bf7",
+      "BLUE_345": "#ff42f7",
       "BRAND_230": "#854bf7",
       "BRAND_260": "#854bf7",
       "BRAND_360": "#949cf7",
