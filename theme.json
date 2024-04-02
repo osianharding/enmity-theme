@@ -100,7 +100,7 @@
       "#ff4242"
       ],
       "STATUS_DANGER_BACKGROUND": [
-      "#fffd4f"
+      "#161616"
       ],
       "STATUS_DANGER_TEXT": [
       "#FFFFFF"
@@ -125,8 +125,8 @@
       ]
     },
     "rawColors": {
-      "BLUE_345": "#fffd4f",
-      "BRAND_230": "#42ff56",
+      "BLUE_345": "#161616",
+      "BRAND_230": "#818491",
       "BRAND_260": "#ae85ff",
       "BRAND_360": "#949cf7",
       "BRAND_500": "#4269ff",
