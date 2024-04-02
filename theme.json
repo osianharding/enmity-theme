@@ -13,7 +13,7 @@
       "#0B0B0B"
       ],
       "BACKGROUND_ACCENT": [
-      "#a8aab4"
+      "#4d505b"
       ],
       "BACKGROUND_MENTIONED": [
       "#E4B40027"
@@ -126,8 +126,8 @@
     },
     "rawColors": {
       "BLUE_345": "#42ff56",
-      "BRAND_230": "#ffa442",
-      "BRAND_260": "#42e9ff",
+      "BRAND_230": "#ff4242",
+      "BRAND_260": "#ff4242",
       "BRAND_360": "#949cf7",
       "BRAND_500": "#854bf7",
       "BRAND_560": "#dddee1",
